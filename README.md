@@ -2,7 +2,7 @@
 **Restaurant page** project from [The Odin Project](https://www.theodinproject.com/about) course
 
 ## Preview link
-https://yurii-ruban.github.io/restaurant-page
+https://yurii-ruban.github.io/top-restaurant
 
 ## Thechnologies used
  - HTML
