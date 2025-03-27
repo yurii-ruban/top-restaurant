@@ -4,15 +4,25 @@
 ## Preview link
 https://yurii-ruban.github.io/restaurant-page
 
-## Skills
+## Thechnologies used
  - HTML
-
+    - Default boilerplate code
  - CSS
-
+    - Basic styling
+    - Flexbox layout
+    - Grid layout
+    - Split styles to different files
+    - Positioning
  - JS
+    - Working with DOM
+    - ES6 modules
 
 - Webpack
-
+    - webpack, webpack cli
+    - html-webpack-plugin
+    - style-loader, css-loader
+    - html-loader
+    - webpack-dev-server
 
 ## Purpose
 The **Restaurant Page** project aims to continue practicing DOM-manipulation using `Javascript`.
@@ -22,4 +32,4 @@ The task is to just create simple restaurant page following [these](https://www.
 
 
 ## Screenshot
-![Screenshot]()
+![Screenshot](./src/img/Screenshot.png)
