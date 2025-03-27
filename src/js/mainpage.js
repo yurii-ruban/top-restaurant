@@ -1,3 +1,5 @@
+import "../css/main-page-styles.css"
+
 const generateMainPage = (contentContainer) => {
     const mainpage = document.createElement("div");
     mainpage.classList.add("mainpage");
@@ -18,4 +20,4 @@ const generateMainPage = (contentContainer) => {
     contentContainer.appendChild(mainpage);
 };
 
-export {generateMainPage};
+export { generateMainPage };
