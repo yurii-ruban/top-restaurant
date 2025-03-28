@@ -23,6 +23,7 @@ https://yurii-ruban.github.io/top-restaurant
     - style-loader, css-loader
     - html-loader
     - webpack-dev-server
+    - webpack-merge
 
 ## Purpose
 The **Restaurant Page** project aims to continue practicing DOM-manipulation using `Javascript`.
