@@ -2,7 +2,7 @@ import "../css/styles.css"
 
 import { generateMainPage } from "./mainpage.js"
 import { generateMenuPage } from "./menu.js"
-import { generateContactPage} from "./contact.js"
+import { generateContactPage } from "./contact.js"
 
 const content = document.querySelector("#content");
 const homeBtn = document.querySelector(".home");

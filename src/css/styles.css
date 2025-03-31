@@ -1,46 +1,44 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Underline:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Underline:ital,wght@0,100..900;1,100..900&display=swap");
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-image: url("../img/wood.jpg");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("../img/wood.jpg");
 }
 
 ul {
-    list-style-type: none;
-    list-style-position: unset;
+  list-style-type: none;
+  list-style-position: unset;
 
-    display: flex;
-    justify-content: center;
-    padding: 3rem 3rem 2rem 3rem;
-    gap: 5rem;
+  display: flex;
+  justify-content: center;
+  padding: 3rem 3rem 2rem 3rem;
+  gap: 5rem;
 
-    button {
-        font-size: 3.5rem;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        font-weight: 600;
-        padding: 1.2rem 2.5rem;
-        border-radius: 20px;
-        border: none;
+  button {
+    font-size: 3.5rem;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    padding: 1.2rem 2.5rem;
+    border-radius: 20px;
+    border: none;
 
-        &:active {
-            outline: 2px solid white;
-            background-color: rgb(79, 79, 79);
-            color: white;
-        }
+    &:active {
+      outline: 2px solid white;
+      background-color: rgb(79, 79, 79);
+      color: white;
     }
+  }
 }
 
 #content {
-    background-color: rgba(219, 142, 95, 0.897);
-    border-radius: 20px;
-    width: 90%;
+  background-color: rgba(219, 142, 95, 0.897);
+  border-radius: 20px;
+  width: 90%;
 }
-
-
-

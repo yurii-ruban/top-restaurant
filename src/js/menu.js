@@ -7,7 +7,7 @@ const generateMenuPage = (contentContainer) => {
     header.innerText = "Menu";
     const menuContainer = document.createElement("div");
     menuContainer.classList.add("menu-container");
-    
+
     for (let i = 0; i < 5; ++i) {
         const itemContainer = document.createElement("div");
         itemContainer.classList.add("item-container");
